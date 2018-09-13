@@ -3,6 +3,6 @@ Tweets are annotated with the associated emotions namely Happiness, Sadness, Ang
 and also the causal language.
 
 Due to privacy policy of twitter we are releasing only tweet ids not the tweet text. Tweet text can be requested from us by
-mailing us.
+mailing at deepanshuvijay01995@gmail.com
 
 This dataset in in development and in future we will extend this to more number of sentences.
